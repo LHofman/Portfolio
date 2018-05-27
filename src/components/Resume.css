@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(240, 240, 240);
+}
+
+h1, h2, h3, .red {
+    color: rgb(150, 0, 0);
+}
+
+.italic {
+    font-style: italic;
+}
+
+p, .black {
+    color: black;
+    font-size: 16px;
+    font-weight: normal;
+}

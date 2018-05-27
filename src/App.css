@@ -1,0 +1,15 @@
+.marginTop {
+  margin-top: 3em;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+body {
+  background-color: rgb(240, 240, 240);
+}
+.left {
+  float: left;
+}
